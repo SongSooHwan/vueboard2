@@ -6,7 +6,7 @@
     <Footer/>
   </div>
 </template>
-
+<!--주석-->
 <script>
 import Header from "@/components/Header";
 import BoardVisual from "@/components/BoardVisual";
