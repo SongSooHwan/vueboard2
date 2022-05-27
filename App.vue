@@ -6,7 +6,7 @@
     <Footer/>
   </div>
 </template>
-
+<!--uptate 3 220527-->
 <script>
 import Header from "@/components/Header";
 import BoardVisual from "@/components/BoardVisual";
